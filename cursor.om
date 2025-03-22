@@ -1,1 +1,2 @@
-
+:OM:
+: if;is_key_pressed("ctrl+alt+o");move_mouse(960,540) :
