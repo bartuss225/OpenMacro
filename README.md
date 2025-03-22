@@ -1,6 +1,6 @@
 # OpenMacro
-A program to make macros 
-to exit press: control+alt+q
+A program to make macros                   
+to exit press: control+alt+q                              
 Scripts that will be used need to be in the same directory as the program
 Language:                            
 # : command;detection;action :
